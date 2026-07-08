@@ -1,8 +1,6 @@
 <div align="center">
 
-# Mahmoud Mohamed
-
-**Software Engineer • Data Analyst • Database Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0e75b6&height=220&section=header&text=Mahmoud%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20BI%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst;Business+Intelligence+Developer;Backend+%26+Database+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
@@ -95,6 +93,18 @@ I'm a Software Engineer with a growing focus on **Data Analytics** and **Busines
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud363-58&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoud363-58/mahmoud363-58/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoud363-58/mahmoud363-58/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mahmoud363-58/mahmoud363-58/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 ---
