@@ -1,25 +1,132 @@
-# 💫 About Me:
-Software Engineer with a strong interest in Data Analytics, Business Intelligence, Databases, and Artificial Intelligence. Passionate about developing data-driven solutions and transforming data into actionable insights that support better decision-making.Software Engineer with a strong interest in Data Analytics, Business Intelligence, Databases, and Artificial Intelligence. Passionate about developing data-driven solutions and transforming data into actionable insights that support better decision-making.
+<div align="center">
 
+# Hi 👋 I'm Mahmoud Mohamed
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mahmoud Mohamed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mahmoud Mohamed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud Mohamed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mahmoud Mohamed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mahmoud Mohamed) 
+### 💻 Software Engineer | 📊 Data Analytics | 🗄️ Databases | 🤖 AI Enthusiast
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mahmoud363-58&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mahmoud363-58&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahmoud363-58&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Data+Analytics+Enthusiast;Business+Intelligence;Database+Developer;Always+Learning+New+Technologies" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahmoud363-58&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=mahmoud363-58&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mahmoud363-58&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me//) 
+# 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 Software Engineer passionate about building innovative software and data-driven solutions.
+
+📊 Interested in:
+
+- Data Analytics
+- Business Intelligence
+- Database Systems
+- Artificial Intelligence
+
+🎯 I enjoy solving real-world problems through technology and transforming data into actionable insights that support better decision-making.
+
+🌱 Currently learning advanced Data Analytics, AI, and Backend Development.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Data Analytics
+
+<p>
+
+Power BI • SQL • Excel • Pandas • NumPy • Matplotlib
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=mahmoud363-58&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud363-58&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud363-58&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mahmoud363-58&theme=tokyonight&no-frame=true&row=1&column=7)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mahmoud363-58&theme=tokyo-night)
+
+---
+
+# 📌 Featured Projects
+
+📊 Data Analytics Projects
+
+📈 Power BI Dashboards
+
+🗄 SQL Projects
+
+🌐 Web Development Projects
+
+🤖 AI Projects
+
+---
+
+# 📫 Connect with Me
+
+<p align="left">
+
+<a href="mailto:mahmuodmohamed2003124@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mahmoud-mohamed-49762133b">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/mahmoud363-58">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote
+
+*"Data is the new oil, but insight is the real value."*
+
+⭐ If you like my work, don't forget to star my repositories!
+
+</div>
