@@ -61,7 +61,7 @@ I'm a Software Engineer with a growing focus on **Data Analytics** and **Busines
 
 | Project | Description | Stack |
 |---|---|---|
-| 📊 [Sales Performance Dashboard](#) | Interactive Power BI dashboard analyzing sales trends, regional performance, and KPIs | Power BI, SQL |
+| 📊 [Amazon Sales Performance Analysis](https://github.com/mahmoud363-58/Amazon-Sales-Performance-Analysis) | Business Intelligence dashboard built with Power BI to analyze sales performance, monitor KPIs, and deliver actionable business insights. | Power BI, DAX, SQL |
 | 🗄️ [Database Design Project](#) | Normalized relational database schema for a real-world business case with ER diagrams | MySQL, PostgreSQL |
 | 🧹 [Data Cleaning & EDA](#) | End-to-end data cleaning and exploratory analysis pipeline on a public dataset | Python, Pandas, NumPy |
 | 🌐 [Web App Name](#) | Short description of what it does and the problem it solves | Next.js, PHP |
