@@ -1,132 +1,109 @@
 <div align="center">
 
-# Hi 👋 I'm Mahmoud Mohamed
+# Mahmoud Mohamed
 
-### 💻 Software Engineer | 📊 Data Analytics | 🗄️ Databases | 🤖 AI Enthusiast
+**Software Engineer • Data Analyst • Database Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Data+Analytics+Enthusiast;Business+Intelligence;Database+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst;Business+Intelligence+Developer;Backend+%26+Database+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=mahmoud363-58&label=Profile%20Views&color=0e75b6&style=flat" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmoud-mohamed-49762133b)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmuodmohamed2003124@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoud363-58&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-# 🚀 About Me
+### 🧭 About Me
 
-💻 Software Engineer passionate about building innovative software and data-driven solutions.
+I'm a Software Engineer with a growing focus on **Data Analytics** and **Business Intelligence**. I like turning raw data into dashboards and reports that people can actually act on, and I build backend/database systems to support that data pipeline end-to-end.
 
-📊 Interested in:
-
-- Data Analytics
-- Business Intelligence
-- Database Systems
-- Artificial Intelligence
-
-🎯 I enjoy solving real-world problems through technology and transforming data into actionable insights that support better decision-making.
-
-🌱 Currently learning advanced Data Analytics, AI, and Backend Development.
+- 📊 Currently deepening my skills in **Power BI, SQL, and Python for data analysis**
+- 🏗️ Also working on **backend development** to understand the full data lifecycle — from database design to dashboard
+- 🎯 Goal: become a well-rounded **Data/BI Engineer** who can build and analyze systems, not just one or the other
+- 🌍 Based in Egypt, open to remote/freelance data & BI work
 
 ---
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-### Languages
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,php" />
-</p>
+**Data & BI**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### Databases
+**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+**Web**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nextjs" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Data Analytics
-
-<p>
-
-Power BI • SQL • Excel • Pandas • NumPy • Matplotlib
-
-</p>
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📊 GitHub Statistics
+### 📌 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=mahmoud363-58&show_icons=true&theme=tokyonight&hide_border=true)
+> استبدل الروابط دي بروابط الريبوهات بتاعتك على GitHub عشان القسم ده يبقى فعلي مش مجرد عناوين
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahmoud363-58&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud363-58&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mahmoud363-58&theme=tokyonight&no-frame=true&row=1&column=7)
+| Project | Description | Stack |
+|---|---|---|
+| 📊 [Sales Performance Dashboard](#) | Interactive Power BI dashboard analyzing sales trends, regional performance, and KPIs | Power BI, SQL |
+| 🗄️ [Database Design Project](#) | Normalized relational database schema for a real-world business case with ER diagrams | MySQL, PostgreSQL |
+| 🧹 [Data Cleaning & EDA](#) | End-to-end data cleaning and exploratory analysis pipeline on a public dataset | Python, Pandas, NumPy |
+| 🌐 [Web App Name](#) | Short description of what it does and the problem it solves | Next.js, PHP |
 
 ---
 
-# 📈 Contribution Graph
+### 📊 GitHub Stats
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mahmoud363-58&theme=tokyo-night)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoud363-58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoud363-58&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-# 📌 Featured Projects
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud363-58&theme=tokyonight&hide_border=true" />
 
-📊 Data Analytics Projects
-
-📈 Power BI Dashboards
-
-🗄 SQL Projects
-
-🌐 Web Development Projects
-
-🤖 AI Projects
+</div>
 
 ---
 
-# 📫 Connect with Me
+### 🏆 Trophies
 
-<p align="left">
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mahmoud363-58&theme=tokyonight&no-frame=true&row=1&column=7" />
+</div>
 
-<a href="mailto:mahmuodmohamed2003124@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/mahmoud-mohamed-49762133b">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+### 📈 Activity
 
-<a href="https://github.com/mahmoud363-58">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud363-58&theme=tokyo-night&hide_border=true" />
+</div>
 
 ---
 
 <div align="center">
 
-## 💡 Quote
-
+### 💬 
 *"Data is the new oil, but insight is the real value."*
 
-⭐ If you like my work, don't forget to star my repositories!
+⭐ **If you like my work, consider starring my repositories!**
 
 </div>
